@@ -120,11 +120,6 @@ Each phase contains:
 
 This avoids loading unnecessary project information and keeps development focused on the current goal.
 
-More details:
-
-- [Build Plan](BUILD-PLAN.md)
-- [Architecture](ARCHITECTURE.md)
-
 ---
 
 ## Roadmap
