@@ -139,7 +139,7 @@ Goal:
 - CEF first render - DONE
 - Basic browser tabs - DONE
 
-![Aero Browser](assets/screenshots/google.PNG)
+![Aero Browser](aero.png)
 
 ### Phase 1 — Privacy Layer - DONE
 
