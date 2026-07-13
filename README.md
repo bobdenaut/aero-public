@@ -9,6 +9,14 @@ Whether running on Servo or CEF, the browser applies the same request intercepti
 The goal is not to create another Chromium-based browser, but to explore a cleaner and more maintainable approach to browser development with privacy-first principles in mind!
 
 One browser shell. Multiple rendering engines. One consistent security model.
+
+Aero is a masterclass in browser architecture. 
+The engineering practices (conformance reports, gap documentation, and absolute engine isolation) set a gold standard for Rust development.
+Mitigating the upstream Servo proxy and SRI bugs are the highest priority items before Servo can graduate from an opt-in compatibility 
+engine to the default.
+
+See ![Architecture review](OUTSIDER-REVIEW.MD) and ![Code review](OUTSIDER-CODE-REVIEW.MD)
+
 ---
 
 ## Vision
