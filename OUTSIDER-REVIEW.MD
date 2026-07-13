@@ -108,5 +108,3 @@ Conclusion
 Aero is a masterclass in browser architecture. The engineering practices (conformance reports, gap documentation, 
 and absolute engine isolation) set a gold standard for Rust development. Mitigating the upstream Servo proxy and SRI bugs are the 
 highest priority items before Servo can graduate from an opt-in compatibility engine to the default.
-
-Let me know if you would like me to dive deeper into any of these modules!
