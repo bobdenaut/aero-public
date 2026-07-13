@@ -153,14 +153,14 @@ Goal:
 - Engine navigation - DONE
 - Navigation toolbar - DONE
 
-### Phase 2 — Local Data Platform
+### Phase 2 — Local Data Platform - DONE
 
 Goal:
 
-- Storage layer
-- Encryption
-- Session vault
-- Restore system
+- Storage layer - DONE
+- Encryption - DONE
+- Session vault - DONE
+- Restore system - DONE  
 
 ### Phase 3 — Synchronization
 
