@@ -15,7 +15,7 @@ The engineering practices (conformance reports, gap documentation, and absolute 
 Mitigating the upstream Servo proxy and SRI bugs are the highest priority items before Servo can graduate from an opt-in compatibility 
 engine to the default.
 
-See ![Architecture review](OUTSIDER-REVIEW.MD) and ![Code review](OUTSIDER-CODE-REVIEW.MD)
+See ![Architecture review](OUTSIDER-REVIEW.MD) and ![Code review](OUTSIDER-CODE-REVIEW.md)
 
 ---
 
